@@ -1,0 +1,1 @@
+endpoint = "ws://localhost:8000/api/nlp/summarize"
